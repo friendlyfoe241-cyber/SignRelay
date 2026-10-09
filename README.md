@@ -1,4 +1,4 @@
-# SignRelay
+# SignRelay hola
 
 SignRelay is a privacy-first research web application for continuous sign-language recognition. It observes ordered hand, face and upper-body landmarks, evaluates a language-specific temporal adapter, confirms only high-confidence sequences, and can read confirmed text aloud.
 
